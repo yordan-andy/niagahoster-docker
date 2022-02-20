@@ -1,0 +1,26 @@
+version: "3.8"
+
+networks:
+  yordan-niagahoster:
+
+services:
+  nginx:
+    image: nginx:alpine
+    volumes:
+      - "./public:/var/www"
+      - "./.build/nginx/conf.d:/etc/nginx/conf.d"
+    ports:
+      - "80:80"
+    depends_on:
+      - php
+    networks:
+      - yordan-niagahoster
+
+  php:
+    build: ./.build/php
+    volumes:
+      - "./public:/var/www"
+    networks:
+      - yordan-niagahoster
+
+  

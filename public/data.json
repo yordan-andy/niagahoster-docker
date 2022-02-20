@@ -1,0 +1,201 @@
+[
+    {
+        "name": "Bayi",
+        "isBestSeller": "false",
+        "price": "14900",
+        "realPrice": "19900",
+        "joinUsers": "938",
+        "services" : [
+            {
+                "bold": "0.5 RESOURCE POWER",
+                "normal": ""
+            },
+            {
+                "bold": "500 MB",
+                "normal": "Disc Space"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Bandwidth"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Databases"
+            },
+            {
+                "bold": "1",
+                "normal": "Domain"
+            },
+            {
+                "bold": "Instant",
+                "normal": "Backup"
+            },
+            {
+                "bold": "Unlimited SSL",
+                "normal": "Gratis Selamanya"
+            }
+        ],
+        "labelButton": "Pilih Sekarang"
+    },
+    {
+        "name": "Pelajar",
+        "isBestSeller": "false",
+        "price": "23450",
+        "realPrice": "46900",
+        "joinUsers": "4168",
+        "services" : [
+            {
+                "bold": "1X RESOURCE POWER",
+                "normal": ""
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Disc Space"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Bandwidth"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "POP3 Email"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Databases"
+            },
+            {
+                "bold": "10",
+                "normal": "Addon Domain"
+            },
+            {
+                "bold": "Instant",
+                "normal": "Backup"
+            },
+            {
+                "bold": "Domain Gratis",
+                "normal": "Selamanya"
+            },
+            {
+                "bold": "Unlimited SSL",
+                "normal": "Gratis Selamanya"
+            }
+        ],
+        "labelButton": "Pilih Sekarang"
+    },
+    {
+        "name": "Personal",
+        "isBestSeller": "true",
+        "price": "38900",
+        "realPrice": "58900",
+        "joinUsers": "10017",
+        "services" : [
+            {
+                "bold": "2X RESOURCE POWER",
+                "normal": ""
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Disc Space"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Bandwidth"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "POP3 Email"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Databases"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Addon Domain"
+            },
+            {
+                "bold": "Instant",
+                "normal": "Backup"
+            },
+            {
+                "bold": "Domain Gratis",
+                "normal": "Selamanya"
+            },
+            {
+                "bold": "Unlimited SSL",
+                "normal": "Gratis Selamanya"
+            },
+            {
+                "bold": "Private",
+                "normal": "Name Server"
+            },
+            {
+                "bold": "SpamAssasin",
+                "normal": " Mail Protection"
+            }
+        ],
+        "labelButton": "Pilih Sekarang"
+    },
+    {
+        "name": "Bisnis",
+        "isBestSeller": "false",
+        "price": "65900",
+        "realPrice": "109900",
+        "joinUsers": "3552",
+        "services" : [
+            {
+                "bold": "3X RESOURCE POWER",
+                "normal": ""
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Disc Space"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Bandwidth"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "POP3 Email"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Databases"
+            },
+            {
+                "bold": "Unlimited",
+                "normal": "Addon Domain"
+            },
+            {
+                "bold": "Magic Auto",
+                "normal": "Backup & Restore"
+            },
+            {
+                "bold": "Domain Gratis",
+                "normal": "Selamanya"
+            },
+            {
+                "bold": "Unlimited SSL",
+                "normal": "Gratis Selamanya"
+            },
+            {
+                "bold": "Private",
+                "normal": "Name Server"
+            },
+            {
+                "bold": "Prioritas",
+                "normal": "Layanan Support"
+            },
+            {
+                "isRating": "true"
+            },
+            {
+                "bold": "SpamAssasin",
+                "normal": " Mail Protection"
+            }
+        ],
+        "labelButton": "Diskon 40%"
+    }
+]
